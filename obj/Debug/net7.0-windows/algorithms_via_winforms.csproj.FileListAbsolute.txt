@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\algorithms_via_winforms\bin\Debug\net7.0-windows\algorithms_via_winforms.exe
+C:\Users\User\Desktop\algorithms_via_winforms\bin\Debug\net7.0-windows\algorithms_via_winforms.deps.json
+C:\Users\User\Desktop\algorithms_via_winforms\bin\Debug\net7.0-windows\algorithms_via_winforms.runtimeconfig.json
+C:\Users\User\Desktop\algorithms_via_winforms\bin\Debug\net7.0-windows\algorithms_via_winforms.dll
+C:\Users\User\Desktop\algorithms_via_winforms\bin\Debug\net7.0-windows\algorithms_via_winforms.pdb
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\algorithms_via_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\algorithms_via_winforms.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\algorithms_via_winforms.AssemblyInfo.cs
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\algorithms_via_winforms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\algorithms_via_winforms.dll
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\refint\algorithms_via_winforms.dll
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\algorithms_via_winforms.pdb
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\algorithms_via_winforms.genruntimeconfig.cache
+C:\Users\User\Desktop\algorithms_via_winforms\obj\Debug\net7.0-windows\ref\algorithms_via_winforms.dll
